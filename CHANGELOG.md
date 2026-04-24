@@ -1,6 +1,6 @@
 # did-veres-one ChangeLog
 
-## 16.2.0 - 2026-04-xx
+## 16.2.0 - 2026-04-24
 
 ### Changed
 - Use `crypto.randomUUID()` instead of `uuid` package.
